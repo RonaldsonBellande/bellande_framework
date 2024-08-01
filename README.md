@@ -1,9 +1,7 @@
-# Benefits of bellande Model Framework 🚀
+# Bellande Framework Through Bellande API's  🚀
 
-The bellande model framework offers several advantages that make it a preferred choice for various applications.
+The bellande framework offers several advantages that make it a preferred choice for various applications
+- This particular portion of the API is for opensource use, anyone is alloweed to use it
 
 ### 🔑 API USE
-- **Endpoint**: /Bellande_Model_Framework/bellande_model_framework_opensource
-- **Default Assess Key for Model**: ``bellande_model_framework_opensource``
-### 🔐 APPLICATION USE
-- **Default Assess Key for framework**: ``bellande_model_framework_opensource``
+- **Default Assess Key for Model**: ``bellande_web_api_opensource``
