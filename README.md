@@ -7,4 +7,4 @@ The bellande framework offers several advantages that make it a preferred choice
 - **Default Assess Key for Framework**: ``bellande_web_api_opensource``
 
 ## Use Bellande Architectures with Bellande bought Framework/Bellande Framework/Own created Framework With Bellande Models
-- **Default Connectivity Passcode**: **user_input_passcode**
+- **Default Connectivity Passcode**: ``user_input_passcode``
